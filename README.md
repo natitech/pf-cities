@@ -1,1 +1,1 @@
-# pf-cities
+List of French Polynesia cities
