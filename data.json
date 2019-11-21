@@ -1,0 +1,345 @@
+[
+    {
+        "insee_code": 98715,
+        "zip_code": 98704,
+        "geo_code": 98704,
+        "area": "Îles du Vent",
+        "city": "Faaa"
+    },
+    {
+        "insee_code": 98738,
+        "zip_code": 98718,
+        "geo_code": 98718,
+        "area": "Îles du Vent",
+        "city": "Punaauia"
+    },
+    {
+        "insee_code": 98735,
+        "zip_code": 98713,
+        "geo_code": 98714,
+        "area": "Îles du Vent",
+        "city": "Papeete"
+    },
+    {
+        "insee_code": 98729,
+        "zip_code": 98728,
+        "geo_code": 98728,
+        "area": "Îles du Vent",
+        "city": "Moorea-Maiao"
+    },
+    {
+        "insee_code": 98725,
+        "zip_code": 98709,
+        "geo_code": 98709,
+        "area": "Îles du Vent",
+        "city": "Mahina"
+    },
+    {
+        "insee_code": 98736,
+        "zip_code": 98716,
+        "geo_code": 98716,
+        "area": "Îles du Vent",
+        "city": "Pirae"
+    },
+    {
+        "insee_code": 98733,
+        "zip_code": 98711,
+        "geo_code": 98711,
+        "area": "Îles du Vent",
+        "city": "Paea"
+    },
+    {
+        "insee_code": 98747,
+        "zip_code": 98722,
+        "geo_code": 98722,
+        "area": "Îles du Vent",
+        "city": "Taiarapu-Est"
+    },
+    {
+        "insee_code": 98734,
+        "zip_code": 98712,
+        "geo_code": 98712,
+        "area": "Îles du Vent",
+        "city": "Papara"
+    },
+    {
+        "insee_code": 98712,
+        "zip_code": 98701,
+        "geo_code": 98701,
+        "area": "Îles du Vent",
+        "city": "Arue"
+    },
+    {
+        "insee_code": 98722,
+        "zip_code": 98705,
+        "geo_code": 98705,
+        "area": "Îles du Vent",
+        "city": "Hitiaa O Te Ra"
+    },
+    {
+        "insee_code": 98714,
+        "zip_code": 98730,
+        "geo_code": 98730,
+        "area": "Îles Sous-le-Vent",
+        "city": "Bora-Bora"
+    },
+    {
+        "insee_code": 98752,
+        "zip_code": 98726,
+        "geo_code": 98726,
+        "area": "Îles du Vent",
+        "city": "Teva I Uta"
+    },
+    {
+        "insee_code": 98748,
+        "zip_code": 98722,
+        "geo_code": 98722,
+        "area": "Îles du Vent",
+        "city": "Taiarapu-Ouest"
+    },
+    {
+        "insee_code": 98724,
+        "zip_code": 98731,
+        "geo_code": 98731,
+        "area": "Îles Sous-le-Vent",
+        "city": "Huahine"
+    },
+    {
+        "insee_code": 98745,
+        "zip_code": 98733,
+        "geo_code": 98733,
+        "area": "Îles Sous-le-Vent",
+        "city": "Tahaa"
+    },
+    {
+        "insee_code": 98758,
+        "zip_code": 98735,
+        "geo_code": 98735,
+        "area": "Îles Sous-le-Vent",
+        "city": "Uturoa"
+    },
+    {
+        "insee_code": 98750,
+        "zip_code": 98735,
+        "geo_code": 98735,
+        "area": "Îles Sous-le-Vent",
+        "city": "Taputapuatea"
+    },
+    {
+        "insee_code": 98754,
+        "zip_code": 98735,
+        "geo_code": 98735,
+        "area": "Îles Sous-le-Vent",
+        "city": "Tumaraa"
+    },
+    {
+        "insee_code": 98740,
+        "zip_code": 98776,
+        "geo_code": 98776,
+        "area": "Tuamotu-Gambier",
+        "city": "Rangiroa"
+    },
+    {
+        "insee_code": 98731,
+        "zip_code": 98742,
+        "geo_code": 98742,
+        "area": "Marquises",
+        "city": "Nuku-Hiva"
+    },
+    {
+        "insee_code": 98744,
+        "zip_code": 98753,
+        "geo_code": 98753,
+        "area": "Australes",
+        "city": "Rurutu"
+    },
+    {
+        "insee_code": 98723,
+        "zip_code": 98741,
+        "geo_code": 98741,
+        "area": "Marquises",
+        "city": "Hiva-Oa"
+    },
+    {
+        "insee_code": 98757,
+        "zip_code": 98745,
+        "geo_code": 98745,
+        "area": "Marquises",
+        "city": "Ua-Pou"
+    },
+    {
+        "insee_code": 98753,
+        "zip_code": 98754,
+        "geo_code": 98754,
+        "area": "Australes",
+        "city": "Tubuai"
+    },
+    {
+        "insee_code": 98716,
+        "zip_code": 98763,
+        "geo_code": 98763,
+        "area": "Tuamotu-Gambier",
+        "city": "Fakarava"
+    },
+    {
+        "insee_code": 98726,
+        "zip_code": 98769,
+        "geo_code": 98769,
+        "area": "Tuamotu-Gambier",
+        "city": "Makemo"
+    },
+    {
+        "insee_code": 98713,
+        "zip_code": 98761,
+        "geo_code": 98761,
+        "area": "Tuamotu-Gambier",
+        "city": "Arutua"
+    },
+    {
+        "insee_code": 98719,
+        "zip_code": 98755,
+        "geo_code": 98755,
+        "area": "Tuamotu-Gambier",
+        "city": "Gambier"
+    },
+    {
+        "insee_code": null,
+        "zip_code": 98719,
+        "geo_code": 98719,
+        "area": "Îles du Vent",
+        "city": "Taravao"
+    },
+    {
+        "insee_code": 98720,
+        "zip_code": 98767,
+        "geo_code": 98767,
+        "area": "Tuamotu-Gambier",
+        "city": "Hao"
+    },
+    {
+        "insee_code": 98749,
+        "zip_code": 98781,
+        "geo_code": 98781,
+        "area": "Tuamotu-Gambier",
+        "city": "Takaroa"
+    },
+    {
+        "insee_code": 98727,
+        "zip_code": 98771,
+        "geo_code": 98771,
+        "area": "Tuamotu-Gambier",
+        "city": "Manihi"
+    },
+    {
+        "insee_code": 98728,
+        "zip_code": 98732,
+        "geo_code": 98732,
+        "area": "Îles Sous-le-Vent",
+        "city": "Maupiti"
+    },
+    {
+        "insee_code": 98739,
+        "zip_code": 98750,
+        "geo_code": 98750,
+        "area": "Australes",
+        "city": "Raivavae"
+    },
+    {
+        "insee_code": 98711,
+        "zip_code": 98760,
+        "geo_code": 98760,
+        "area": "Tuamotu-Gambier",
+        "city": "Anaa"
+    },
+    {
+        "insee_code": 98743,
+        "zip_code": 98752,
+        "geo_code": 98752,
+        "area": "Australes",
+        "city": "Rimatara"
+    },
+    {
+        "insee_code": 98746,
+        "zip_code": 98743,
+        "geo_code": 98743,
+        "area": "Marquises",
+        "city": "Tahuata"
+    },
+    {
+        "insee_code": 98756,
+        "zip_code": 98744,
+        "geo_code": 98744,
+        "area": "Marquises",
+        "city": "Ua-Huka"
+    },
+    {
+        "insee_code": 98718,
+        "zip_code": 98740,
+        "geo_code": 98740,
+        "area": "Marquises",
+        "city": "Fatu-Hiva"
+    },
+    {
+        "insee_code": 98742,
+        "zip_code": 98779,
+        "geo_code": 98779,
+        "area": "Tuamotu-Gambier",
+        "city": "Reao"
+    },
+    {
+        "insee_code": 98741,
+        "zip_code": 98751,
+        "geo_code": 98751,
+        "area": "Australes",
+        "city": "Rapa"
+    },
+    {
+        "insee_code": 98730,
+        "zip_code": 98772,
+        "geo_code": 98772,
+        "area": "Tuamotu-Gambier",
+        "city": "Napuka"
+    },
+    {
+        "insee_code": 98732,
+        "zip_code": 98773,
+        "geo_code": 98773,
+        "area": "Tuamotu-Gambier",
+        "city": "Nukutavake"
+    },
+    {
+        "insee_code": 98755,
+        "zip_code": 98784,
+        "geo_code": 98784,
+        "area": "Tuamotu-Gambier",
+        "city": "Tureia"
+    },
+    {
+        "insee_code": 98717,
+        "zip_code": 98765,
+        "geo_code": 98765,
+        "area": "Tuamotu-Gambier",
+        "city": "Fangatau"
+    },
+    {
+        "insee_code": 98751,
+        "zip_code": 98783,
+        "geo_code": 98783,
+        "area": "Tuamotu-Gambier",
+        "city": "Tatakoto"
+    },
+    {
+        "insee_code": 98721,
+        "zip_code": 98768,
+        "geo_code": 98768,
+        "area": "Tuamotu-Gambier",
+        "city": "Hikueru"
+    },
+    {
+        "insee_code": 98737,
+        "zip_code": 98774,
+        "geo_code": 98774,
+        "area": "Tuamotu-Gambier",
+        "city": "Pukapuka"
+    }
+]
