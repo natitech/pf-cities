@@ -4,6 +4,7 @@
         "zip_code": 98704,
         "geo_code": 98704,
         "area": "Îles du Vent",
+        "tahiti_coast": "west",
         "city": "Faaa",
         "wgs84_approx_location" : {
            "lat" : -17.5637341,
@@ -15,6 +16,7 @@
         "zip_code": 98718,
         "geo_code": 98718,
         "area": "Îles du Vent",
+        "tahiti_coast": "west",
         "city": "Punaauia",
         "wgs84_approx_location" : {
            "lat" : -17.623,
@@ -26,6 +28,7 @@
         "zip_code": 98713,
         "geo_code": 98714,
         "area": "Îles du Vent",
+        "tahiti_coast": null,
         "city": "Papeete",
         "wgs84_approx_location" : {
            "lat" : -17.5516251,
@@ -37,6 +40,7 @@
         "zip_code": 98728,
         "geo_code": 98728,
         "area": "Îles du Vent",
+        "tahiti_coast": null,
         "city": "Moorea-Maiao",
         "wgs84_approx_location" : {
            "lat" : -17.5496188,
@@ -48,6 +52,7 @@
         "zip_code": 98709,
         "geo_code": 98709,
         "area": "Îles du Vent",
+        "tahiti_coast": "east",
         "city": "Mahina",
         "wgs84_approx_location" : {
            "lat" : -17.5081765,
@@ -59,6 +64,7 @@
         "zip_code": 98716,
         "geo_code": 98716,
         "area": "Îles du Vent",
+        "tahiti_coast": "east",
         "city": "Pirae",
         "wgs84_approx_location" : {
            "lat" : -17.577554,
@@ -70,6 +76,7 @@
         "zip_code": 98711,
         "geo_code": 98711,
         "area": "Îles du Vent",
+        "tahiti_coast": "west",
         "city": "Paea",
         "wgs84_approx_location" : {
            "lat" : -17.6830987,
@@ -81,6 +88,7 @@
         "zip_code": 98722,
         "geo_code": 98722,
         "area": "Îles du Vent",
+        "tahiti_coast": null,
         "city": "Taiarapu-Est",
         "wgs84_approx_location" : {
            "lat" : -17.7833333,
@@ -92,6 +100,7 @@
         "zip_code": 98712,
         "geo_code": 98712,
         "area": "Îles du Vent",
+        "tahiti_coast": "west",
         "city": "Papara",
         "wgs84_approx_location" : {
            "lat" : -17.7262691,
@@ -103,6 +112,7 @@
         "zip_code": 98701,
         "geo_code": 98701,
         "area": "Îles du Vent",
+        "tahiti_coast": "east",
         "city": "Arue",
         "wgs84_approx_location" : {
            "lat" : -17.5332448,
@@ -114,6 +124,7 @@
         "zip_code": 98705,
         "geo_code": 98705,
         "area": "Îles du Vent",
+        "tahiti_coast": null,
         "city": "Hitiaa O Te Ra",
         "wgs84_approx_location" : {
            "lat" : -17.6059721,
@@ -125,6 +136,7 @@
         "zip_code": 98730,
         "geo_code": 98730,
         "area": "Îles Sous-le-Vent",
+        "tahiti_coast": null,
         "city": "Bora-Bora",
         "wgs84_approx_location" : {
            "lat" : -16.5004126,
@@ -136,6 +148,7 @@
         "zip_code": 98726,
         "geo_code": 98726,
         "area": "Îles du Vent",
+        "tahiti_coast": null,
         "city": "Teva I Uta",
         "wgs84_approx_location" : {
            "lat" : -17.7685779,
@@ -147,6 +160,7 @@
         "zip_code": 98722,
         "geo_code": 98722,
         "area": "Îles du Vent",
+        "tahiti_coast": null,
         "city": "Taiarapu-Ouest",
         "wgs84_approx_location" : {
            "lat" : -17.7833333,
@@ -158,6 +172,7 @@
         "zip_code": 98731,
         "geo_code": 98731,
         "area": "Îles Sous-le-Vent",
+        "tahiti_coast": null,
         "city": "Huahine",
         "wgs84_approx_location" : {
            "lat" : -16.7882653,
@@ -169,6 +184,7 @@
         "zip_code": 98733,
         "geo_code": 98733,
         "area": "Îles Sous-le-Vent",
+        "tahiti_coast": null,
         "city": "Tahaa",
         "wgs84_approx_location" : {
            "lat" : -16.6094815,
@@ -180,6 +196,7 @@
         "zip_code": 98735,
         "geo_code": 98735,
         "area": "Îles Sous-le-Vent",
+        "tahiti_coast": null,
         "city": "Uturoa",
         "wgs84_approx_location" : {
            "lat" : -16.7328701,
@@ -191,6 +208,7 @@
         "zip_code": 98735,
         "geo_code": 98735,
         "area": "Îles Sous-le-Vent",
+        "tahiti_coast": null,
         "city": "Taputapuatea",
         "wgs84_approx_location" : {
            "lat" : -16.8363442,
@@ -202,6 +220,7 @@
         "zip_code": 98735,
         "geo_code": 98735,
         "area": "Îles Sous-le-Vent",
+        "tahiti_coast": null,
         "city": "Tumaraa",
         "wgs84_approx_location" : {
            "lat" : -16.7475773,
@@ -213,6 +232,7 @@
         "zip_code": 98776,
         "geo_code": 98776,
         "area": "Tuamotu-Gambier",
+        "tahiti_coast": null,
         "city": "Rangiroa",
         "wgs84_approx_location" : {
            "lat" : -15.1162282,
@@ -224,6 +244,7 @@
         "zip_code": 98742,
         "geo_code": 98742,
         "area": "Marquises",
+        "tahiti_coast": null,
         "city": "Nuku-Hiva",
         "wgs84_approx_location" : {
            "lat" : -8.860480799999999,
@@ -235,6 +256,7 @@
         "zip_code": 98753,
         "geo_code": 98753,
         "area": "Australes",
+        "tahiti_coast": null,
         "city": "Rurutu",
         "wgs84_approx_location" : {
            "lat" : -22.480133,
@@ -246,6 +268,7 @@
         "zip_code": 98741,
         "geo_code": 98741,
         "area": "Marquises",
+        "tahiti_coast": null,
         "city": "Hiva-Oa",
         "wgs84_approx_location" : {
            "lat" : -9.754672599999999,
@@ -257,6 +280,7 @@
         "zip_code": 98745,
         "geo_code": 98745,
         "area": "Marquises",
+        "tahiti_coast": null,
         "city": "Ua-Pou",
         "wgs84_approx_location" : {
            "lat" : -9.4042642,
@@ -268,6 +292,7 @@
         "zip_code": 98754,
         "geo_code": 98754,
         "area": "Australes",
+        "tahiti_coast": null,
         "city": "Tubuai",
         "wgs84_approx_location" : {
            "lat" : -23,
@@ -279,6 +304,7 @@
         "zip_code": 98763,
         "geo_code": 98763,
         "area": "Tuamotu-Gambier",
+        "tahiti_coast": null,
         "city": "Fakarava",
         "wgs84_approx_location" : {
            "lat" : -16.3103178,
@@ -290,6 +316,7 @@
         "zip_code": 98769,
         "geo_code": 98769,
         "area": "Tuamotu-Gambier",
+        "tahiti_coast": null,
         "city": "Makemo",
         "wgs84_approx_location" : {
            "lat" : -16.5395622,
@@ -301,6 +328,7 @@
         "zip_code": 98761,
         "geo_code": 98761,
         "area": "Tuamotu-Gambier",
+        "tahiti_coast": null,
         "city": "Arutua",
         "wgs84_approx_location" : {
            "lat" : -15.2899056,
@@ -312,6 +340,7 @@
         "zip_code": 98755,
         "geo_code": 98755,
         "area": "Tuamotu-Gambier",
+        "tahiti_coast": null,
         "city": "Gambier",
         "wgs84_approx_location" : {
            "lat" : -23.1349158,
@@ -323,6 +352,7 @@
         "zip_code": 98719,
         "geo_code": 98719,
         "area": "Îles du Vent",
+        "tahiti_coast": null,
         "city": "Taravao",
         "wgs84_approx_location" : {
            "lat" : -17.72332,
@@ -334,6 +364,7 @@
         "zip_code": 98767,
         "geo_code": 98767,
         "area": "Tuamotu-Gambier",
+        "tahiti_coast": null,
         "city": "Hao",
         "wgs84_approx_location" : {
            "lat" : -18.2157675,
@@ -345,6 +376,7 @@
         "zip_code": 98781,
         "geo_code": 98781,
         "area": "Tuamotu-Gambier",
+        "tahiti_coast": null,
         "city": "Takaroa",
         "wgs84_approx_location" : {
            "lat" : -14.4497553,
@@ -356,6 +388,7 @@
         "zip_code": 98771,
         "geo_code": 98771,
         "area": "Tuamotu-Gambier",
+        "tahiti_coast": null,
         "city": "Manihi",
         "wgs84_approx_location" : {
            "lat" : -14.4028975,
@@ -367,6 +400,7 @@
         "zip_code": 98732,
         "geo_code": 98732,
         "area": "Îles Sous-le-Vent",
+        "tahiti_coast": null,
         "city": "Maupiti",
         "wgs84_approx_location" : {
            "lat" : -16.4440095,
@@ -378,6 +412,7 @@
         "zip_code": 98750,
         "geo_code": 98750,
         "area": "Australes",
+        "tahiti_coast": null,
         "city": "Raivavae",
         "wgs84_approx_location" : {
            "lat" : -23.8649845,
@@ -389,6 +424,7 @@
         "zip_code": 98760,
         "geo_code": 98760,
         "area": "Tuamotu-Gambier",
+        "tahiti_coast": null,
         "city": "Anaa",
         "wgs84_approx_location" : {
            "lat" : -17.4101806,
@@ -400,6 +436,7 @@
         "zip_code": 98752,
         "geo_code": 98752,
         "area": "Australes",
+        "tahiti_coast": null,
         "city": "Rimatara",
         "wgs84_approx_location" : {
            "lat" : -22.6526965,
@@ -411,6 +448,7 @@
         "zip_code": 98743,
         "geo_code": 98743,
         "area": "Marquises",
+        "tahiti_coast": null,
         "city": "Tahuata",
         "wgs84_approx_location" : {
            "lat" : -9.9516738,
@@ -422,6 +460,7 @@
         "zip_code": 98744,
         "geo_code": 98744,
         "area": "Marquises",
+        "tahiti_coast": null,
         "city": "Ua-Huka",
         "wgs84_approx_location" : {
            "lat" : -8.907772599999999,
@@ -433,6 +472,7 @@
         "zip_code": 98740,
         "geo_code": 98740,
         "area": "Marquises",
+        "tahiti_coast": null,
         "city": "Fatu-Hiva",
         "wgs84_approx_location" : {
            "lat" : -10.4904907,
@@ -444,6 +484,7 @@
         "zip_code": 98779,
         "geo_code": 98779,
         "area": "Tuamotu-Gambier",
+        "tahiti_coast": null,
         "city": "Reao",
         "wgs84_approx_location" : {
            "lat" : -18.5549107,
@@ -455,6 +496,7 @@
         "zip_code": 98751,
         "geo_code": 98751,
         "area": "Australes",
+        "tahiti_coast": null,
         "city": "Rapa",
         "wgs84_approx_location" : {
            "lat" : -27.5924005,
@@ -466,6 +508,7 @@
         "zip_code": 98772,
         "geo_code": 98772,
         "area": "Tuamotu-Gambier",
+        "tahiti_coast": null,
         "city": "Napuka",
         "wgs84_approx_location" : {
            "lat" : -14.1701291,
@@ -477,6 +520,7 @@
         "zip_code": 98773,
         "geo_code": 98773,
         "area": "Tuamotu-Gambier",
+        "tahiti_coast": null,
         "city": "Nukutavake",
         "wgs84_approx_location" : {
            "lat" : -19.2808074,
@@ -488,6 +532,7 @@
         "zip_code": 98784,
         "geo_code": 98784,
         "area": "Tuamotu-Gambier",
+        "tahiti_coast": null,
         "city": "Tureia",
         "wgs84_approx_location" : {
            "lat" : -20.8213987,
@@ -499,6 +544,7 @@
         "zip_code": 98765,
         "geo_code": 98765,
         "area": "Tuamotu-Gambier",
+        "tahiti_coast": null,
         "city": "Fangatau",
         "wgs84_approx_location" : {
            "lat" : -15.8253205,
@@ -510,6 +556,7 @@
         "zip_code": 98783,
         "geo_code": 98783,
         "area": "Tuamotu-Gambier",
+        "tahiti_coast": null,
         "city": "Tatakoto",
         "wgs84_approx_location" : {
            "lat" : -17.3379381,
@@ -521,6 +568,7 @@
         "zip_code": 98768,
         "geo_code": 98768,
         "area": "Tuamotu-Gambier",
+        "tahiti_coast": null,
         "city": "Hikueru",
         "wgs84_approx_location" : {
            "lat" : -17.5835948,
@@ -532,6 +580,7 @@
         "zip_code": 98774,
         "geo_code": 98774,
         "area": "Tuamotu-Gambier",
+        "tahiti_coast": null,
         "city": "Pukapuka",
         "wgs84_approx_location" : {
            "lat" : -14.8217938,
