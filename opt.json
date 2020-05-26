@@ -1,6 +1,6 @@
 [
   {
-    "opt_code": "1068",
+    "opt_code": 1068,
     "city": "Aakapa",
     "zip_code": 98742,
     "wgs84_approx_location": {
@@ -12,7 +12,7 @@
     "opt_agency": "Aakapa"
   },
   {
-    "opt_code": "1040",
+    "opt_code": 1040,
     "city": "Ahurei",
     "zip_code": 98751,
     "wgs84_approx_location": {
@@ -24,7 +24,7 @@
     "opt_agency": "Ahurei"
   },
   {
-    "opt_code": "1041",
+    "opt_code": 1041,
     "city": "Amaru",
     "zip_code": 98752,
     "wgs84_approx_location": {
@@ -36,7 +36,7 @@
     "opt_agency": "Amaru"
   },
   {
-    "opt_code": "975",
+    "opt_code": 975,
     "city": "Arue",
     "zip_code": 98701,
     "wgs84_approx_location": {
@@ -48,7 +48,7 @@
     "opt_agency": "Arue"
   },
   {
-    "opt_code": "1066",
+    "opt_code": 1066,
     "city": "Atuona",
     "zip_code": 98741,
     "wgs84_approx_location": {
@@ -60,7 +60,7 @@
     "opt_agency": "Atuona"
   },
   {
-    "opt_code": "1106",
+    "opt_code": 1106,
     "city": "Avatoru",
     "zip_code": 98775,
     "wgs84_approx_location": {
@@ -72,7 +72,7 @@
     "opt_agency": "Avatoru"
   },
   {
-    "opt_code": "1029",
+    "opt_code": 1029,
     "city": "Avera",
     "zip_code": 98736,
     "wgs84_approx_location": {
@@ -82,7 +82,7 @@
     "opt_agency": "Avera"
   },
   {
-    "opt_code": "982",
+    "opt_code": 982,
     "city": "Faaa",
     "zip_code": 98702,
     "wgs84_approx_location": {
@@ -94,7 +94,7 @@
     "opt_agency": "Faaa - mairie"
   },
   {
-    "opt_code": "1141",
+    "opt_code": 1141,
     "city": "Faaa",
     "zip_code": 98704,
     "wgs84_approx_location": {
@@ -106,7 +106,7 @@
     "opt_agency": "Faaa tua rata - aéroport"
   },
   {
-    "opt_code": "1117",
+    "opt_code": 1117,
     "city": "Fakamaru",
     "zip_code": 98784,
     "wgs84_approx_location": {
@@ -118,19 +118,19 @@
     "opt_agency": "Fakamaru"
   },
   {
-    "opt_code": "1112",
+    "opt_code": 1112,
     "city": "Fakatopatere",
     "zip_code": 98782,
     "wgs84_approx_location": {
       "lat": -14.701807,
       "lng": -145.255228
     },
-    "area": null,
+    "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
     "opt_agency": "Fakatopatere"
   },
   {
-    "opt_code": "1024",
+    "opt_code": 1024,
     "city": "Fare",
     "zip_code": 98731,
     "wgs84_approx_location": {
@@ -142,31 +142,31 @@
     "opt_agency": "Fare"
   },
   {
-    "opt_code": "1109",
+    "opt_code": 1109,
     "city": "Garumaoa",
     "zip_code": 98790,
     "wgs84_approx_location": {
       "lat": -16.042393,
       "lng": -142.474447
     },
-    "area": null,
+    "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
     "opt_agency": "Garumaoa"
   },
   {
-    "opt_code": "1037",
+    "opt_code": 1037,
     "city": "Haamene",
     "zip_code": 98734,
     "wgs84_approx_location": {
       "lat": -16.635617,
       "lng": -151.491307
     },
-    "area": null,
+    "area": "Îles Sous-le-Vent",
     "tahiti_coast": null,
     "opt_agency": "Haamene"
   },
   {
-    "opt_code": "1075",
+    "opt_code": 1075,
     "city": "Hakahau",
     "zip_code": 98745,
     "wgs84_approx_location": {
@@ -178,19 +178,19 @@
     "opt_agency": "Hakahau"
   },
   {
-    "opt_code": "1076",
+    "opt_code": 1076,
     "city": "Hakamaii",
     "zip_code": 98746,
     "wgs84_approx_location": {
       "lat": -9.415746,
       "lng": -140.114117
     },
-    "area": null,
+    "area": "Marquises",
     "tahiti_coast": null,
     "opt_agency": "Hakamaii"
   },
   {
-    "opt_code": "1052",
+    "opt_code": 1052,
     "city": "Hanavave",
     "zip_code": 98740,
     "wgs84_approx_location": {
@@ -202,91 +202,91 @@
     "opt_agency": "Hanavave"
   },
   {
-    "opt_code": "1073",
+    "opt_code": 1073,
     "city": "Hane",
     "zip_code": 98747,
     "wgs84_approx_location": {
       "lat": -8.923963,
       "lng": -139.534245
     },
-    "area": null,
+    "area": "Marquises",
     "tahiti_coast": null,
     "opt_agency": "Hane"
   },
   {
-    "opt_code": "1069",
+    "opt_code": 1069,
     "city": "Hatiheu",
     "zip_code": 98748,
     "wgs84_approx_location": {
       "lat": -8.829002,
       "lng": -140.08575
     },
-    "area": null,
+    "area": "Marquises",
     "tahiti_coast": null,
     "opt_agency": "Hatiheu"
   },
   {
-    "opt_code": "1111",
+    "opt_code": 1111,
     "city": "Henuaparea",
     "zip_code": 98791,
     "wgs84_approx_location": {
       "lat": -16.361914,
       "lng": -143.185327
     },
-    "area": null,
+    "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
     "opt_agency": "Henuaparea"
   },
   {
-    "opt_code": "1077",
+    "opt_code": 1077,
     "city": "Hikitake",
     "zip_code": 98790,
     "wgs84_approx_location": {
       "lat": -17.841671,
       "lng": -140.851565
     },
-    "area": null,
+    "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
     "opt_agency": "Hikitake"
   },
   {
-    "opt_code": "1020",
+    "opt_code": 1020,
     "city": "Hitiaa",
     "zip_code": 98708,
     "wgs84_approx_location": {
       "lat": -17.543936,
       "lng": -149.343708
     },
-    "area": null,
-    "tahiti_coast": null,
+    "area": "Îles du Vent",
+    "tahiti_coast": "east",
     "opt_agency": "Hitiaa"
   },
   {
-    "opt_code": "1082",
+    "opt_code": 1082,
     "city": "Hitianau faaite",
     "zip_code": 98786,
     "wgs84_approx_location": {
       "lat": -16.704912,
       "lng": -145.35714
     },
-    "area": null,
+    "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
     "opt_agency": "Hitianau faaite"
   },
   {
-    "opt_code": "1088",
+    "opt_code": 1088,
     "city": "Hitianau katiu",
     "zip_code": 98789,
     "wgs84_approx_location": {
       "lat": -16.36724,
       "lng": -144.358198
     },
-    "area": null,
+    "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
     "opt_agency": "Hitianau katiu"
   },
   {
-    "opt_code": "1021",
+    "opt_code": 1021,
     "city": "Maharepa",
     "zip_code": 98728,
     "wgs84_approx_location": {
@@ -298,19 +298,19 @@
     "opt_agency": "Maharepa"
   },
   {
-    "opt_code": "1099",
+    "opt_code": 1099,
     "city": "Mahetika",
     "zip_code": 98790,
     "wgs84_approx_location": {
       "lat": -17.962216,
       "lng": -142.223213
     },
-    "area": null,
+    "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
     "opt_agency": "Mahetika"
   },
   {
-    "opt_code": "983",
+    "opt_code": 983,
     "city": "Mahina",
     "zip_code": 98709,
     "wgs84_approx_location": {
@@ -322,7 +322,7 @@
     "opt_agency": "Mahina"
   },
   {
-    "opt_code": "1105",
+    "opt_code": 1105,
     "city": "Marautagaroa",
     "zip_code": 98760,
     "wgs84_approx_location": {
@@ -334,7 +334,7 @@
     "opt_agency": "Marautagaroa"
   },
   {
-    "opt_code": "1190",
+    "opt_code": 1190,
     "city": "Mataiea",
     "zip_code": 98726,
     "wgs84_approx_location": {
@@ -346,7 +346,7 @@
     "opt_agency": "Mataiea"
   },
   {
-    "opt_code": "1043",
+    "opt_code": 1043,
     "city": "Mataura",
     "zip_code": 98754,
     "wgs84_approx_location": {
@@ -358,7 +358,7 @@
     "opt_agency": "Mataura"
   },
   {
-    "opt_code": "1025",
+    "opt_code": 1025,
     "city": "Maupiti",
     "zip_code": 98732,
     "wgs84_approx_location": {
@@ -370,7 +370,7 @@
     "opt_agency": "Maupiti"
   },
   {
-    "opt_code": "1042",
+    "opt_code": 1042,
     "city": "Moerai",
     "zip_code": 98753,
     "wgs84_approx_location": {
@@ -382,55 +382,55 @@
     "opt_agency": "Moerai"
   },
   {
-    "opt_code": "1108",
+    "opt_code": 1108,
     "city": "Motutapu",
     "zip_code": 98790,
     "wgs84_approx_location": {
       "lat": -16.092397,
       "lng": -144.954665
     },
-    "area": null,
+    "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
     "opt_agency": "Motutapu"
   },
   {
-    "opt_code": "1079",
+    "opt_code": 1079,
     "city": "Niutahi",
     "zip_code": 98762,
     "wgs84_approx_location": {
       "lat": -15.56821,
       "lng": -146.412912
     },
-    "area": null,
+    "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
     "opt_agency": "Niutahi"
   },
   {
-    "opt_code": "1080",
+    "opt_code": 1080,
     "city": "Nukumaru",
     "zip_code": 98764,
     "wgs84_approx_location": {
       "lat": -15.479072,
       "lng": -145.503989
     },
-    "area": null,
+    "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
     "opt_agency": "Nukumaru"
   },
   {
-    "opt_code": "1114",
+    "opt_code": 1114,
     "city": "Ohomo",
     "zip_code": 98790,
     "wgs84_approx_location": {
       "lat": -15.850701,
       "lng": -142.268105
     },
-    "area": null,
+    "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
     "opt_agency": "Ohomo"
   },
   {
-    "opt_code": "1065",
+    "opt_code": 1065,
     "city": "Omoa",
     "zip_code": 98740,
     "wgs84_approx_location": {
@@ -442,7 +442,7 @@
     "opt_agency": "Omoa"
   },
   {
-    "opt_code": "1086",
+    "opt_code": 1086,
     "city": "Otepa",
     "zip_code": 98767,
     "wgs84_approx_location": {
@@ -454,7 +454,7 @@
     "opt_agency": "Otepa"
   },
   {
-    "opt_code": "988",
+    "opt_code": 988,
     "city": "Paea",
     "zip_code": 98711,
     "wgs84_approx_location": {
@@ -466,19 +466,19 @@
     "opt_agency": "Paea"
   },
   {
-    "opt_code": "1100",
+    "opt_code": 1100,
     "city": "Pahua",
     "zip_code": 98777,
     "wgs84_approx_location": {
       "lat": -14.866671,
       "lng": -148.710272
     },
-    "area": null,
+    "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
     "opt_agency": "Pahua"
   },
   {
-    "opt_code": "989",
+    "opt_code": 989,
     "city": "Papara",
     "zip_code": 98712,
     "wgs84_approx_location": {
@@ -490,31 +490,31 @@
     "opt_agency": "Papara fare fenua"
   },
   {
-    "opt_code": "992",
+    "opt_code": 992,
     "city": "Papeari",
     "zip_code": 98727,
     "wgs84_approx_location": {
       "lat": -17.752851,
       "lng": -149.35069
     },
-    "area": null,
-    "tahiti_coast": null,
+    "area": "Îles du Vent",
+    "tahiti_coast": "west",
     "opt_agency": "Papeari"
   },
   {
-    "opt_code": "1018",
+    "opt_code": 1018,
     "city": "Papeete",
     "zip_code": 98715,
     "wgs84_approx_location": {
       "lat": -17.534603,
       "lng": -149.577334
     },
-    "area": null,
+    "area": "Îles du Vent",
     "tahiti_coast": null,
     "opt_agency": "Papeete - motu uta"
   },
   {
-    "opt_code": "1017",
+    "opt_code": 1017,
     "city": "Papeete",
     "zip_code": 98713,
     "wgs84_approx_location": {
@@ -526,19 +526,19 @@
     "opt_agency": "Papeete rp"
   },
   {
-    "opt_code": "1022",
+    "opt_code": 1022,
     "city": "Papetoai",
     "zip_code": 98729,
     "wgs84_approx_location": {
       "lat": -17.493696,
       "lng": -149.870703
     },
-    "area": null,
+    "area": "Îles du Vent",
     "tahiti_coast": null,
     "opt_agency": "Papetoai"
   },
   {
-    "opt_code": "1038",
+    "opt_code": 1038,
     "city": "Patio",
     "zip_code": 98733,
     "wgs84_approx_location": {
@@ -550,7 +550,7 @@
     "opt_agency": "Patio"
   },
   {
-    "opt_code": "995",
+    "opt_code": 995,
     "city": "Pirae",
     "zip_code": 98716,
     "wgs84_approx_location": {
@@ -562,7 +562,7 @@
     "opt_agency": "Pirae"
   },
   {
-    "opt_code": "1095",
+    "opt_code": 1095,
     "city": "Pouheva",
     "zip_code": 98769,
     "wgs84_approx_location": {
@@ -574,7 +574,7 @@
     "opt_agency": "Pouheva"
   },
   {
-    "opt_code": "1067",
+    "opt_code": 1067,
     "city": "Puamau",
     "zip_code": 98741,
     "wgs84_approx_location": {
@@ -586,31 +586,31 @@
     "opt_agency": "Puamau"
   },
   {
-    "opt_code": "1012",
+    "opt_code": 1012,
     "city": "Punaauia",
     "zip_code": 98717,
     "wgs84_approx_location": {
       "lat": -17.580594,
       "lng": -149.614879
     },
-    "area": null,
-    "tahiti_coast": null,
+    "area": "Îles du Vent",
+    "tahiti_coast": "west",
     "opt_agency": "Punaauia - centre moana nui"
   },
   {
-    "opt_code": "1013",
+    "opt_code": 1013,
     "city": "Punaauia",
     "zip_code": 98703,
     "wgs84_approx_location": {
       "lat": -17.622777,
       "lng": -149.612892
     },
-    "area": null,
-    "tahiti_coast": null,
+    "area": "Îles du Vent",
+    "tahiti_coast": "west",
     "opt_agency": "Punaauia punavai"
   },
   {
-    "opt_code": "1039",
+    "opt_code": 1039,
     "city": "Rairua",
     "zip_code": 98750,
     "wgs84_approx_location": {
@@ -622,19 +622,19 @@
     "opt_agency": "Rairua"
   },
   {
-    "opt_code": "1093",
+    "opt_code": 1093,
     "city": "Raitahiti",
     "zip_code": 98785,
     "wgs84_approx_location": {
       "lat": -15.673589,
       "lng": -146.873986
     },
-    "area": null,
+    "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
     "opt_agency": "Raitahiti"
   },
   {
-    "opt_code": "1081",
+    "opt_code": 1081,
     "city": "Rautini",
     "zip_code": 98761,
     "wgs84_approx_location": {
@@ -646,7 +646,7 @@
     "opt_agency": "Rautini"
   },
   {
-    "opt_code": "1097",
+    "opt_code": 1097,
     "city": "Rikitea",
     "zip_code": 98755,
     "wgs84_approx_location": {
@@ -658,7 +658,7 @@
     "opt_agency": "Rikitea"
   },
   {
-    "opt_code": "1084",
+    "opt_code": 1084,
     "city": "Rotoava",
     "zip_code": 98763,
     "wgs84_approx_location": {
@@ -670,7 +670,7 @@
     "opt_agency": "Rotoava"
   },
   {
-    "opt_code": "1070",
+    "opt_code": 1070,
     "city": "Taiohae",
     "zip_code": 98742,
     "wgs84_approx_location": {
@@ -682,7 +682,7 @@
     "opt_agency": "Taiohae"
   },
   {
-    "opt_code": "1071",
+    "opt_code": 1071,
     "city": "Taipivai",
     "zip_code": 98742,
     "wgs84_approx_location": {
@@ -694,7 +694,7 @@
     "opt_agency": "Taipivai"
   },
   {
-    "opt_code": "1110",
+    "opt_code": 1110,
     "city": "Tapuarava",
     "zip_code": 98779,
     "wgs84_approx_location": {
@@ -706,7 +706,7 @@
     "opt_agency": "Tapuarava"
   },
   {
-    "opt_code": "1014",
+    "opt_code": 1014,
     "city": "Taravao",
     "zip_code": 98719,
     "wgs84_approx_location": {
@@ -718,19 +718,19 @@
     "opt_agency": "Taravao"
   },
   {
-    "opt_code": "1083",
+    "opt_code": 1083,
     "city": "Tarione",
     "zip_code": 98766,
     "wgs84_approx_location": {
       "lat": -15.980922,
       "lng": -140.16653
     },
-    "area": null,
+    "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
     "opt_agency": "Tarione"
   },
   {
-    "opt_code": "1016",
+    "opt_code": 1016,
     "city": "Tautira",
     "zip_code": 98722,
     "wgs84_approx_location": {
@@ -742,7 +742,7 @@
     "opt_agency": "Tautira"
   },
   {
-    "opt_code": "1103",
+    "opt_code": 1103,
     "city": "Tavava",
     "zip_code": 98773,
     "wgs84_approx_location": {
@@ -754,7 +754,7 @@
     "opt_agency": "Tavava"
   },
   {
-    "opt_code": "1085",
+    "opt_code": 1085,
     "city": "Teana",
     "zip_code": 98765,
     "wgs84_approx_location": {
@@ -766,19 +766,19 @@
     "opt_agency": "Teana"
   },
   {
-    "opt_code": "1089",
+    "opt_code": 1089,
     "city": "Tearavero",
     "zip_code": 98787,
     "wgs84_approx_location": {
       "lat": -15.823318,
       "lng": -145.110533
     },
-    "area": null,
+    "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
     "opt_agency": "Tearavero"
   },
   {
-    "opt_code": "1113",
+    "opt_code": 1113,
     "city": "Teavaroa",
     "zip_code": 98781,
     "wgs84_approx_location": {
@@ -790,31 +790,31 @@
     "opt_agency": "Teavaroa"
   },
   {
-    "opt_code": "1118",
+    "opt_code": 1118,
     "city": "Temanufaara",
     "zip_code": 98788,
     "wgs84_approx_location": {
       "lat": -18.776658,
       "lng": -138.851623
     },
-    "area": null,
+    "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
     "opt_agency": "Temanufaara"
   },
   {
-    "opt_code": "1119",
+    "opt_code": 1119,
     "city": "Tenokupara",
     "zip_code": 98770,
     "wgs84_approx_location": {
       "lat": -14.538336,
       "lng": -146.356349
     },
-    "area": null,
+    "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
     "opt_agency": "Tenokupara"
   },
   {
-    "opt_code": "1104",
+    "opt_code": 1104,
     "city": "Teonemahina",
     "zip_code": 98774,
     "wgs84_approx_location": {
@@ -826,7 +826,7 @@
     "opt_agency": "Teonemahina"
   },
   {
-    "opt_code": "1101",
+    "opt_code": 1101,
     "city": "Tepukamaruia",
     "zip_code": 98772,
     "wgs84_approx_location": {
@@ -838,7 +838,7 @@
     "opt_agency": "Tepukamaruia"
   },
   {
-    "opt_code": "1107",
+    "opt_code": 1107,
     "city": "Tiputa",
     "zip_code": 98776,
     "wgs84_approx_location": {
@@ -850,19 +850,19 @@
     "opt_agency": "Tiputa"
   },
   {
-    "opt_code": "1116",
+    "opt_code": 1116,
     "city": "Tuherahera",
     "zip_code": 98778,
     "wgs84_approx_location": {
       "lat": -15.113719,
       "lng": -148.244201
     },
-    "area": null,
+    "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
     "opt_agency": "Tuherahera"
   },
   {
-    "opt_code": "1115",
+    "opt_code": 1115,
     "city": "Tumukuru",
     "zip_code": 98783,
     "wgs84_approx_location": {
@@ -874,19 +874,19 @@
     "opt_agency": "Tumukuru"
   },
   {
-    "opt_code": "1102",
+    "opt_code": 1102,
     "city": "Tupana",
     "zip_code": 98759,
     "wgs84_approx_location": {
       "lat": -16.130656,
       "lng": -146.332915
     },
-    "area": null,
+    "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
     "opt_agency": "Tupana"
   },
   {
-    "opt_code": "1087",
+    "opt_code": 1087,
     "city": "Tupapati",
     "zip_code": 98768,
     "wgs84_approx_location": {
@@ -898,7 +898,7 @@
     "opt_agency": "Tupapati"
   },
   {
-    "opt_code": "1098",
+    "opt_code": 1098,
     "city": "Turipaoa",
     "zip_code": 98771,
     "wgs84_approx_location": {
@@ -910,7 +910,7 @@
     "opt_agency": "Turipaoa"
   },
   {
-    "opt_code": "1078",
+    "opt_code": 1078,
     "city": "Tuuhora",
     "zip_code": 98760,
     "wgs84_approx_location": {
@@ -922,7 +922,7 @@
     "opt_agency": "Tuuhora"
   },
   {
-    "opt_code": "1028",
+    "opt_code": 1028,
     "city": "Uturoa",
     "zip_code": 98735,
     "wgs84_approx_location": {
@@ -934,7 +934,7 @@
     "opt_agency": "Uturoa - gare maritime"
   },
   {
-    "opt_code": "1074",
+    "opt_code": 1074,
     "city": "Vaipaee",
     "zip_code": 98744,
     "wgs84_approx_location": {
@@ -946,19 +946,19 @@
     "opt_agency": "Vaipaee"
   },
   {
-    "opt_code": "1015",
+    "opt_code": 1015,
     "city": "Vairao",
     "zip_code": 98725,
     "wgs84_approx_location": {
       "lat": -17.801611,
       "lng": -149.295364
     },
-    "area": null,
+    "area": "Îles du Vent",
     "tahiti_coast": null,
     "opt_agency": "Vairao"
   },
   {
-    "opt_code": "1072",
+    "opt_code": 1072,
     "city": "Vaitahu",
     "zip_code": 98743,
     "wgs84_approx_location": {
@@ -970,7 +970,7 @@
     "opt_agency": "Vaitahu"
   },
   {
-    "opt_code": "1023",
+    "opt_code": 1023,
     "city": "Vaitape",
     "zip_code": 98730,
     "wgs84_approx_location": {
@@ -982,14 +982,14 @@
     "opt_agency": "Vaitape"
   },
   {
-    "opt_code": "1094",
+    "opt_code": 1094,
     "city": "Vaitepaua",
     "zip_code": 98790,
     "wgs84_approx_location": {
       "lat": -15.821679,
       "lng": -148.264406
     },
-    "area": null,
+    "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
     "opt_agency": "Vaitepaua"
   }
