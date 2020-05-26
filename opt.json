@@ -9,7 +9,7 @@
     },
     "area": "Marquises",
     "tahiti_coast": null,
-    "agency": "Aakapa"
+    "opt_agency": "Aakapa"
   },
   {
     "opt_code": "1040",
@@ -21,7 +21,7 @@
     },
     "area": "Australes",
     "tahiti_coast": null,
-    "agency": "Ahurei"
+    "opt_agency": "Ahurei"
   },
   {
     "opt_code": "1041",
@@ -33,7 +33,7 @@
     },
     "area": "Australes",
     "tahiti_coast": null,
-    "agency": "Amaru"
+    "opt_agency": "Amaru"
   },
   {
     "opt_code": "975",
@@ -45,7 +45,7 @@
     },
     "area": "Îles du Vent",
     "tahiti_coast": "east",
-    "agency": "Arue"
+    "opt_agency": "Arue"
   },
   {
     "opt_code": "1066",
@@ -57,7 +57,7 @@
     },
     "area": "Marquises",
     "tahiti_coast": null,
-    "agency": "Atuona"
+    "opt_agency": "Atuona"
   },
   {
     "opt_code": "1106",
@@ -69,7 +69,7 @@
     },
     "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
-    "agency": "Avatoru"
+    "opt_agency": "Avatoru"
   },
   {
     "opt_code": "1029",
@@ -79,21 +79,23 @@
       "lat": -16.783468,
       "lng": -151.414934
     },
-    "agency": "Avera"
+    "opt_agency": "Avera"
   },
   {
     "opt_code": "982",
-    "city": "Faaa - mairie",
+    "city": "Faaa",
     "zip_code": 98702,
     "wgs84_approx_location": {
       "lat": -17.553463,
       "lng": -149.60068
     },
-    "agency": "Faaa - mairie"
+    "area": "Îles du Vent",
+    "tahiti_coast": "west",
+    "opt_agency": "Faaa - mairie"
   },
   {
     "opt_code": "1141",
-    "city": "Faaa tua rata - aéroport",
+    "city": "Faaa",
     "zip_code": 98704,
     "wgs84_approx_location": {
       "lat": -17.561193,
@@ -101,7 +103,7 @@
     },
     "area": "Îles du Vent",
     "tahiti_coast": "west",
-    "agency": "Faaa tua rata - aéroport"
+    "opt_agency": "Faaa tua rata - aéroport"
   },
   {
     "opt_code": "1117",
@@ -113,7 +115,7 @@
     },
     "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
-    "agency": "Fakamaru"
+    "opt_agency": "Fakamaru"
   },
   {
     "opt_code": "1112",
@@ -123,7 +125,9 @@
       "lat": -14.701807,
       "lng": -145.255228
     },
-    "agency": "Fakatopatere"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Fakatopatere"
   },
   {
     "opt_code": "1024",
@@ -135,7 +139,7 @@
     },
     "area": "Îles Sous-le-Vent",
     "tahiti_coast": null,
-    "agency": "Fare"
+    "opt_agency": "Fare"
   },
   {
     "opt_code": "1109",
@@ -145,7 +149,9 @@
       "lat": -16.042393,
       "lng": -142.474447
     },
-    "agency": "Garumaoa"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Garumaoa"
   },
   {
     "opt_code": "1037",
@@ -155,7 +161,9 @@
       "lat": -16.635617,
       "lng": -151.491307
     },
-    "agency": "Haamene"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Haamene"
   },
   {
     "opt_code": "1075",
@@ -167,7 +175,7 @@
     },
     "area": "Marquises",
     "tahiti_coast": null,
-    "agency": "Hakahau"
+    "opt_agency": "Hakahau"
   },
   {
     "opt_code": "1076",
@@ -177,7 +185,9 @@
       "lat": -9.415746,
       "lng": -140.114117
     },
-    "agency": "Hakamaii"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Hakamaii"
   },
   {
     "opt_code": "1052",
@@ -189,7 +199,7 @@
     },
     "area": "Marquises",
     "tahiti_coast": null,
-    "agency": "Hanavave"
+    "opt_agency": "Hanavave"
   },
   {
     "opt_code": "1073",
@@ -199,7 +209,9 @@
       "lat": -8.923963,
       "lng": -139.534245
     },
-    "agency": "Hane"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Hane"
   },
   {
     "opt_code": "1069",
@@ -209,7 +221,9 @@
       "lat": -8.829002,
       "lng": -140.08575
     },
-    "agency": "Hatiheu"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Hatiheu"
   },
   {
     "opt_code": "1111",
@@ -219,7 +233,9 @@
       "lat": -16.361914,
       "lng": -143.185327
     },
-    "agency": "Henuaparea"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Henuaparea"
   },
   {
     "opt_code": "1077",
@@ -229,7 +245,9 @@
       "lat": -17.841671,
       "lng": -140.851565
     },
-    "agency": "Hikitake"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Hikitake"
   },
   {
     "opt_code": "1020",
@@ -239,7 +257,9 @@
       "lat": -17.543936,
       "lng": -149.343708
     },
-    "agency": "Hitiaa"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Hitiaa"
   },
   {
     "opt_code": "1082",
@@ -249,7 +269,9 @@
       "lat": -16.704912,
       "lng": -145.35714
     },
-    "agency": "Hitianau faaite"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Hitianau faaite"
   },
   {
     "opt_code": "1088",
@@ -259,7 +281,9 @@
       "lat": -16.36724,
       "lng": -144.358198
     },
-    "agency": "Hitianau katiu"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Hitianau katiu"
   },
   {
     "opt_code": "1021",
@@ -271,7 +295,7 @@
     },
     "area": "Îles du Vent",
     "tahiti_coast": null,
-    "agency": "Maharepa"
+    "opt_agency": "Maharepa"
   },
   {
     "opt_code": "1099",
@@ -281,7 +305,9 @@
       "lat": -17.962216,
       "lng": -142.223213
     },
-    "agency": "Mahetika"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Mahetika"
   },
   {
     "opt_code": "983",
@@ -293,7 +319,7 @@
     },
     "area": "Îles du Vent",
     "tahiti_coast": "east",
-    "agency": "Mahina"
+    "opt_agency": "Mahina"
   },
   {
     "opt_code": "1105",
@@ -305,7 +331,7 @@
     },
     "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
-    "agency": "Marautagaroa"
+    "opt_agency": "Marautagaroa"
   },
   {
     "opt_code": "1190",
@@ -317,7 +343,7 @@
     },
     "area": "Îles du Vent",
     "tahiti_coast": null,
-    "agency": "Mataiea"
+    "opt_agency": "Mataiea"
   },
   {
     "opt_code": "1043",
@@ -329,7 +355,7 @@
     },
     "area": "Australes",
     "tahiti_coast": null,
-    "agency": "Mataura"
+    "opt_agency": "Mataura"
   },
   {
     "opt_code": "1025",
@@ -341,7 +367,7 @@
     },
     "area": "Îles Sous-le-Vent",
     "tahiti_coast": null,
-    "agency": "Maupiti"
+    "opt_agency": "Maupiti"
   },
   {
     "opt_code": "1042",
@@ -353,7 +379,7 @@
     },
     "area": "Australes",
     "tahiti_coast": null,
-    "agency": "Moerai"
+    "opt_agency": "Moerai"
   },
   {
     "opt_code": "1108",
@@ -363,7 +389,9 @@
       "lat": -16.092397,
       "lng": -144.954665
     },
-    "agency": "Motutapu"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Motutapu"
   },
   {
     "opt_code": "1079",
@@ -373,7 +401,9 @@
       "lat": -15.56821,
       "lng": -146.412912
     },
-    "agency": "Niutahi"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Niutahi"
   },
   {
     "opt_code": "1080",
@@ -383,7 +413,9 @@
       "lat": -15.479072,
       "lng": -145.503989
     },
-    "agency": "Nukumaru"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Nukumaru"
   },
   {
     "opt_code": "1114",
@@ -393,7 +425,9 @@
       "lat": -15.850701,
       "lng": -142.268105
     },
-    "agency": "Ohomo"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Ohomo"
   },
   {
     "opt_code": "1065",
@@ -405,7 +439,7 @@
     },
     "area": "Marquises",
     "tahiti_coast": null,
-    "agency": "Omoa"
+    "opt_agency": "Omoa"
   },
   {
     "opt_code": "1086",
@@ -417,7 +451,7 @@
     },
     "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
-    "agency": "Otepa"
+    "opt_agency": "Otepa"
   },
   {
     "opt_code": "988",
@@ -429,7 +463,7 @@
     },
     "area": "Îles du Vent",
     "tahiti_coast": "west",
-    "agency": "Paea"
+    "opt_agency": "Paea"
   },
   {
     "opt_code": "1100",
@@ -439,11 +473,13 @@
       "lat": -14.866671,
       "lng": -148.710272
     },
-    "agency": "Pahua"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Pahua"
   },
   {
     "opt_code": "989",
-    "city": "Papara fare fenua",
+    "city": "Papara",
     "zip_code": 98712,
     "wgs84_approx_location": {
       "lat": -17.762633,
@@ -451,7 +487,7 @@
     },
     "area": "Îles du Vent",
     "tahiti_coast": "west",
-    "agency": "Papara fare fenua"
+    "opt_agency": "Papara fare fenua"
   },
   {
     "opt_code": "992",
@@ -461,21 +497,25 @@
       "lat": -17.752851,
       "lng": -149.35069
     },
-    "agency": "Papeari"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Papeari"
   },
   {
     "opt_code": "1018",
-    "city": "Papeete - motu uta",
+    "city": "Papeete",
     "zip_code": 98715,
     "wgs84_approx_location": {
       "lat": -17.534603,
       "lng": -149.577334
     },
-    "agency": "Papeete - motu uta"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Papeete - motu uta"
   },
   {
     "opt_code": "1017",
-    "city": "Papeete rp",
+    "city": "Papeete",
     "zip_code": 98713,
     "wgs84_approx_location": {
       "lat": -17.540728,
@@ -483,7 +523,7 @@
     },
     "area": "Îles du Vent",
     "tahiti_coast": null,
-    "agency": "Papeete rp"
+    "opt_agency": "Papeete rp"
   },
   {
     "opt_code": "1022",
@@ -493,7 +533,9 @@
       "lat": -17.493696,
       "lng": -149.870703
     },
-    "agency": "Papetoai"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Papetoai"
   },
   {
     "opt_code": "1038",
@@ -505,7 +547,7 @@
     },
     "area": "Îles Sous-le-Vent",
     "tahiti_coast": null,
-    "agency": "Patio"
+    "opt_agency": "Patio"
   },
   {
     "opt_code": "995",
@@ -517,7 +559,7 @@
     },
     "area": "Îles du Vent",
     "tahiti_coast": "east",
-    "agency": "Pirae"
+    "opt_agency": "Pirae"
   },
   {
     "opt_code": "1095",
@@ -529,7 +571,7 @@
     },
     "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
-    "agency": "Pouheva"
+    "opt_agency": "Pouheva"
   },
   {
     "opt_code": "1067",
@@ -541,27 +583,31 @@
     },
     "area": "Marquises",
     "tahiti_coast": null,
-    "agency": "Puamau"
+    "opt_agency": "Puamau"
   },
   {
     "opt_code": "1012",
-    "city": "Punaauia - centre moana nui",
+    "city": "Punaauia",
     "zip_code": 98717,
     "wgs84_approx_location": {
       "lat": -17.580594,
       "lng": -149.614879
     },
-    "agency": "Punaauia - centre moana nui"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Punaauia - centre moana nui"
   },
   {
     "opt_code": "1013",
-    "city": "Punaauia punavai",
+    "city": "Punaauia",
     "zip_code": 98703,
     "wgs84_approx_location": {
       "lat": -17.622777,
       "lng": -149.612892
     },
-    "agency": "Punaauia punavai"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Punaauia punavai"
   },
   {
     "opt_code": "1039",
@@ -573,7 +619,7 @@
     },
     "area": "Australes",
     "tahiti_coast": null,
-    "agency": "Rairua"
+    "opt_agency": "Rairua"
   },
   {
     "opt_code": "1093",
@@ -583,7 +629,9 @@
       "lat": -15.673589,
       "lng": -146.873986
     },
-    "agency": "Raitahiti"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Raitahiti"
   },
   {
     "opt_code": "1081",
@@ -595,7 +643,7 @@
     },
     "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
-    "agency": "Rautini"
+    "opt_agency": "Rautini"
   },
   {
     "opt_code": "1097",
@@ -607,7 +655,7 @@
     },
     "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
-    "agency": "Rikitea"
+    "opt_agency": "Rikitea"
   },
   {
     "opt_code": "1084",
@@ -619,7 +667,7 @@
     },
     "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
-    "agency": "Rotoava"
+    "opt_agency": "Rotoava"
   },
   {
     "opt_code": "1070",
@@ -631,7 +679,7 @@
     },
     "area": "Marquises",
     "tahiti_coast": null,
-    "agency": "Taiohae"
+    "opt_agency": "Taiohae"
   },
   {
     "opt_code": "1071",
@@ -643,7 +691,7 @@
     },
     "area": "Marquises",
     "tahiti_coast": null,
-    "agency": "Taipivai"
+    "opt_agency": "Taipivai"
   },
   {
     "opt_code": "1110",
@@ -655,7 +703,7 @@
     },
     "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
-    "agency": "Tapuarava"
+    "opt_agency": "Tapuarava"
   },
   {
     "opt_code": "1014",
@@ -667,7 +715,7 @@
     },
     "area": "Îles du Vent",
     "tahiti_coast": null,
-    "agency": "Taravao"
+    "opt_agency": "Taravao"
   },
   {
     "opt_code": "1083",
@@ -677,7 +725,9 @@
       "lat": -15.980922,
       "lng": -140.16653
     },
-    "agency": "Tarione"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Tarione"
   },
   {
     "opt_code": "1016",
@@ -689,7 +739,7 @@
     },
     "area": "Îles du Vent",
     "tahiti_coast": null,
-    "agency": "Tautira"
+    "opt_agency": "Tautira"
   },
   {
     "opt_code": "1103",
@@ -701,7 +751,7 @@
     },
     "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
-    "agency": "Tavava"
+    "opt_agency": "Tavava"
   },
   {
     "opt_code": "1085",
@@ -713,7 +763,7 @@
     },
     "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
-    "agency": "Teana"
+    "opt_agency": "Teana"
   },
   {
     "opt_code": "1089",
@@ -723,7 +773,9 @@
       "lat": -15.823318,
       "lng": -145.110533
     },
-    "agency": "Tearavero"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Tearavero"
   },
   {
     "opt_code": "1113",
@@ -735,7 +787,7 @@
     },
     "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
-    "agency": "Teavaroa"
+    "opt_agency": "Teavaroa"
   },
   {
     "opt_code": "1118",
@@ -745,7 +797,9 @@
       "lat": -18.776658,
       "lng": -138.851623
     },
-    "agency": "Temanufaara"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Temanufaara"
   },
   {
     "opt_code": "1119",
@@ -755,7 +809,9 @@
       "lat": -14.538336,
       "lng": -146.356349
     },
-    "agency": "Tenokupara"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Tenokupara"
   },
   {
     "opt_code": "1104",
@@ -767,7 +823,7 @@
     },
     "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
-    "agency": "Teonemahina"
+    "opt_agency": "Teonemahina"
   },
   {
     "opt_code": "1101",
@@ -779,7 +835,7 @@
     },
     "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
-    "agency": "Tepukamaruia"
+    "opt_agency": "Tepukamaruia"
   },
   {
     "opt_code": "1107",
@@ -791,7 +847,7 @@
     },
     "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
-    "agency": "Tiputa"
+    "opt_agency": "Tiputa"
   },
   {
     "opt_code": "1116",
@@ -801,7 +857,9 @@
       "lat": -15.113719,
       "lng": -148.244201
     },
-    "agency": "Tuherahera"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Tuherahera"
   },
   {
     "opt_code": "1115",
@@ -813,7 +871,7 @@
     },
     "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
-    "agency": "Tumukuru"
+    "opt_agency": "Tumukuru"
   },
   {
     "opt_code": "1102",
@@ -823,7 +881,9 @@
       "lat": -16.130656,
       "lng": -146.332915
     },
-    "agency": "Tupana"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Tupana"
   },
   {
     "opt_code": "1087",
@@ -835,7 +895,7 @@
     },
     "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
-    "agency": "Tupapati"
+    "opt_agency": "Tupapati"
   },
   {
     "opt_code": "1098",
@@ -847,7 +907,7 @@
     },
     "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
-    "agency": "Turipaoa"
+    "opt_agency": "Turipaoa"
   },
   {
     "opt_code": "1078",
@@ -859,11 +919,11 @@
     },
     "area": "Tuamotu-Gambier",
     "tahiti_coast": null,
-    "agency": "Tuuhora"
+    "opt_agency": "Tuuhora"
   },
   {
     "opt_code": "1028",
-    "city": "Uturoa - gare maritime",
+    "city": "Uturoa",
     "zip_code": 98735,
     "wgs84_approx_location": {
       "lat": -16.729988,
@@ -871,7 +931,7 @@
     },
     "area": "Îles Sous-le-Vent",
     "tahiti_coast": null,
-    "agency": "Uturoa - gare maritime"
+    "opt_agency": "Uturoa - gare maritime"
   },
   {
     "opt_code": "1074",
@@ -883,7 +943,7 @@
     },
     "area": "Marquises",
     "tahiti_coast": null,
-    "agency": "Vaipaee"
+    "opt_agency": "Vaipaee"
   },
   {
     "opt_code": "1015",
@@ -893,7 +953,9 @@
       "lat": -17.801611,
       "lng": -149.295364
     },
-    "agency": "Vairao"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Vairao"
   },
   {
     "opt_code": "1072",
@@ -905,7 +967,7 @@
     },
     "area": "Marquises",
     "tahiti_coast": null,
-    "agency": "Vaitahu"
+    "opt_agency": "Vaitahu"
   },
   {
     "opt_code": "1023",
@@ -917,7 +979,7 @@
     },
     "area": "Îles Sous-le-Vent",
     "tahiti_coast": null,
-    "agency": "Vaitape"
+    "opt_agency": "Vaitape"
   },
   {
     "opt_code": "1094",
@@ -927,6 +989,8 @@
       "lat": -15.821679,
       "lng": -148.264406
     },
-    "agency": "Vaitepaua"
+    "area": null,
+    "tahiti_coast": null,
+    "opt_agency": "Vaitepaua"
   }
 ]
